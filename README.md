@@ -58,7 +58,7 @@ The system logs suspicious login attempts, generates alerts, and helps in early 
 Example:
 
 ![Login Page](https://github.com/Point-ww3/Honeyuser-Login-System/blob/main/Screenshot%202026-04-09%20123914.png)
-![Dashboard](your-image-link)
+![Dashboard](https://github.com/Point-ww3/Honeyuser-Login-System/blob/main/Screenshot%202026-04-09%20130809.png)
 
 ---
 
